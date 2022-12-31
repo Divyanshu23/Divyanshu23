@@ -1,4 +1,4 @@
-<h1 align="center">Divyanshu Gangwar this side! 👋</h1>
+<h1 align="center">Hi there! 👋</h1>
 <h3 align="center">I am an undergraduate student from IIT Kanpur, passionate about Full Stack Tech.</h3>
 
 <p align="left"> <a href="https://twitter.com/devilcallback_" target="blank"><img src="https://img.shields.io/twitter/follow/devilcallback_?logo=twitter&style=for-the-badge" alt="devilcallback_" /></a> </p>
