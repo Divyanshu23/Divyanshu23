@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/devilcallback_" target="blank"><img src="https://img.shields.io/twitter/follow/devilcallback_?logo=twitter&style=for-the-badge" alt="devilcallback_" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js and MongoDB**
-
 - 👨‍💻 All of my projects are available at [https://www.divyanshugangwar.in](https://www.divyanshugangwar.in)
 
 - 💬 Let's Talk about **React, Next.js, Politics, Public Policy and TV Shows. Not necessarily in that order :)**
